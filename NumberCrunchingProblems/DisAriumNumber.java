@@ -1,3 +1,4 @@
+package NumberCrunchingProblems;
 public class DisAriumNumber {
     public static void main(String[] args) {
         int n =175, len = (int)Math.log10(n)+1,sum = 0,temp = n;

@@ -1,3 +1,4 @@
+package NumberCrunchingProblems;
 public class DuckNumber {
     static boolean isDuckNumber(int n) {
         String s = n+"";

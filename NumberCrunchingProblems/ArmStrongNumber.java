@@ -1,3 +1,4 @@
+package NumberCrunchingProblems;
 public class ArmStrongNumber {
     public static void main(String[] args) {
         int n = 153, temp = n;

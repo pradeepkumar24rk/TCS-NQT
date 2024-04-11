@@ -1,3 +1,4 @@
+package NumberCrunchingProblems;
 public class PalindromOfDigit {
     public static void main(String[] args) {
         String s1 = "161",s2 ="";

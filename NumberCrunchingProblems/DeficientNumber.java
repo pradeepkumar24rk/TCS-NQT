@@ -1,3 +1,4 @@
+package NumberCrunchingProblems;
 public class DeficientNumber {
     public static void main(String[] args) {
         int n = 21,sum = 0;

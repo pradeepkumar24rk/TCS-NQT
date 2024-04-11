@@ -1,3 +1,4 @@
+package NumberCrunchingProblems;
 public class NeonNumber {
     public static void main(String[] args) {
         int n = 9, sqr = n*n,sum = 0;

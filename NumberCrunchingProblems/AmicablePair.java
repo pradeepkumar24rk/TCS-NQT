@@ -1,3 +1,4 @@
+package NumberCrunchingProblems;
 public class AmicablePair {
     public static void main(String[] args) {
         int x = 220, y = 284;

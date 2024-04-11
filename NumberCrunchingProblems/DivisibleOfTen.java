@@ -1,3 +1,4 @@
+package NumberCrunchingProblems;
 public class DivisibleOfTen {
     public static void main(String[] args) {
         int n1 = 15,n2 = 30;
