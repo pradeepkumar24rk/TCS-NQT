@@ -360,3 +360,25 @@
     The encrypted Text is: Bmm uif Cftu
     
     Write a function CustomCaesarCipher(int key, String message) which will accept plaintext and key as input parameters and returns its cipher text as output.
+    
+11.
+    K Reverse Count
+    The program must accept an integer Array values and another
+    two digits value K. The program must print the number of times the reversed
+    value of K is present in Array
+    
+    1 <= N <= 10^16
+    
+    10 <= K <= 99
+    
+    Input:
+    
+    19 59 69 9
+    90
+    Output:
+    
+    4
+    Explanation:
+    
+    Reverse of K=90 is 9 which is present 4 times in
+    N.
