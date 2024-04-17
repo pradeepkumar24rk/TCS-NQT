@@ -1,5 +1,3 @@
-package StringBasedProblems;
-
 public class Anagram {
 
     static boolean isAnagram(String a, String b) {

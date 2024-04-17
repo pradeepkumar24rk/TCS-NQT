@@ -1,4 +1,4 @@
-package StringBasedProblems;
+
 
 public class RemoveDuplicateCharacter {
     public static void main(String[] args) {

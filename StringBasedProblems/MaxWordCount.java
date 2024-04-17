@@ -1,4 +1,4 @@
-package StringBasedProblems;
+
 
 import java.util.Scanner;
 
