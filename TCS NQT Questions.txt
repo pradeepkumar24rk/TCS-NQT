@@ -431,3 +431,60 @@
     Input: nums = [1,1,1]
     Output:
     0
+    
+14. 
+    Interchange First Last N Characters:
+    
+    The program must accept a string S and
+    interchange the first and last N characters. Then the program must print the
+    revised string value.
+    
+    2 <= Length of S <= 100
+    
+    1 <= N <= (Length of S)/2
+    
+    The first line contains S.
+    The second line contains N.
+    The first line contains a string value.
+    
+    Input:
+    abcdefgh
+    3
+
+    Output:    
+    fghdeabc
+    
+    Input:
+    mango
+    2
+    
+    Output:
+    gonma
+    
+15. 
+    To print Arayy values to 24 Hrs Time Format
+    int arr[]={1,6,7,5};
+    Output :
+    17:56
+    16:57
+
+    int arr[]={1,2,3,4};
+    Output :
+    23:41
+    23:14
+    21:43
+    21:34
+    14:32
+    14:23
+    13:42
+    13:24
+    12:43
+    12:34
+    
+    int arr[]={1,5,5,5};
+    Output :
+    15:55
+    
+    int arr[]={5,5,5,5};
+    Output :
+    NULL
