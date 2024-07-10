@@ -1,0 +1,294 @@
+1. Self intro 
+    Project explanation, algorithms, training model
+    SQL queries (ddl,select,join)
+    Is this your 1st interview 
+    Why tcs
+    Why should I hire you
+    Family background 
+    Relocation
+    Shifts
+    Do u have any questions
+    
+2. Self intro 
+    About project 
+    About blockchain.
+    Calculator problem in java.
+    Night shifts.
+    How will you handle a client if you are getting requiremnets from the client?
+    Why tcs
+
+3. Technical HR
+    Aws related questions 
+    Why aws
+    Need of cloud 
+    About Figma, adobexd
+    If give a week of time can you design exact replica of amazon 
+    
+    Manager 
+    Cost in various cloud 
+    Client based cloud sustainability 
+    Paas , saas and iaas providers
+    
+    Genral
+    Work in various locations 
+    Night shifts 
+    Role in quality circle meeting
+    Situation questions
+    Handling stress 
+    Your Point of view which is important in teamwork
+    
+4. Self intro 
+    About project 
+    Where do you see yourself after 5 years?
+    Will you work in any location at any shift ? 
+    Are you working in any company and what's the CTC?
+    Why tcs
+    Any queries
+    
+5. Self intro half
+    Generative ai and its use case in future ? 
+    what is express js? 
+    Why react ? 
+    What's the benefit of react for users(client)? 
+    How can you connect the front end and back end using the http protocol ? 
+    Binary search implementation. 
+    Will you work in any location at any shift ? 
+    Are you working in any company and what's the CTC?
+
+6. Self intro
+    Project: flask vs django, enabling permissions in flask, asked to write code for getting ip address in flask, routing concept in flask, why AngularJS
+    
+    What is machine learning
+    Types of ml
+    Amazon use which algorithm for creating recommendation system,
+    Application of supervised learning
+    Machine learning vs deep learning
+    Java oops concepts
+    Searching and sorting algorithm
+    Asked to write a program for find max element in java
+    SQL connection in project
+    SQL query using joins
+    Strength and weakness
+    Why tcs
+    2 Situational question
+    Relocation and working shift
+    
+7. Self intro
+    Asked to write project code(ML)
+    Java program
+    Why random forest algorithm
+    Uniqueness of project 
+    About internship 
+    What you learned in internship
+    Questions about relocation and shift
+    
+8. Self intro
+    Project related questions 
+    Cloud computing related questions 
+    NQT programming questions
+    Swapping program without third variable 
+    Method overloading vs method overriding
+    Join queries 
+    Drop, delete, truncate 
+    TCL commands
+    Git commands
+
+9. Prime 
+    TR+MR
+    1. Some normal questions like have u eaten and how u came to interview
+    2. Project in depth questions 
+         How u did project, dataset,      how u did pre processing, usage of project in real life. 
+    3. DBMS questions 
+    4. SQL 5-6 queries
+    5. Os queries
+    6. Numpy and pandas coding ( I mentioned in my resume)
+    7. Aws, cloud computing basics, gen ai vs ai ( i didn't mentioned in resume)
+    8. Why python why not Java
+    9. Family background 
+    10. Convince me to give u this job
+    11. LinkedIn profile 
+    12. Asked about my certifications
+    13. How u created gui
+    14. Why u used tkinter as GUI
+    15. Is this ur first interview?
+    
+    
+    HR:
+    1. tell me anything other than ur academics 
+    2. I told him I read story books and he asked me to tell a suspense story 
+    
+    I told him story and asked who is the culprit. 
+    
+    3. What's in ur LinkedIn
+    
+    4. In which technology u wanna work 
+    
+    5. And i don't remember rest but it went well
+    
+10. prime experience
+    tr 
+    intro
+    asked what is cloud computing , its disadvantages(one basic was that we need internet to access and it was the answer the tr was expecting ..hehe)
+    what is ai?
+    what is ethical hacking
+    you have done java but projects in javascript?
+    then 10mins just talking on ai , its harm , dangers and all , normal talk
+    
+    mr, same cabin ,tr was also there
+    asked about college
+    i said my big bro is in tcs , 
+    what big brother told u about tcs?
+    did he told only good things?
+    what bad things he told about tcs?
+    what is ur brothers salary, i said idk , he said why cant u ask?
+    3.5tcs or 7lpa aacenture
+    i said 3.5tcs  , he said then u r a fool , i would have taken 7, u r downgrading yourself
+    i said money is not everything, he said money is everything
+    then he asked last question - 3.5 or 7
+    i said 3.5, he said ok go
+    mr was a bit strict
+    
+    hr,same cabin with tr mr also
+    when i entered the cabin, mr left 
+    intro
+    relocation
+    ninja pckg and mumbai , how will u manage
+    any other interests? i said acting
+    she said act something so i did a mimicry of jacky shroff 
+    they smiled and said u can go
+    
+11. Location Goa.... interviewers from Mumbai...Role: Prime
+    TR:
+    Asked for Intro
+    Had ML and SQL in my Resume 
+    Gave me a DP question 
+    Minimum window substring 
+    Solved it partially for few testcases on paper
+    Gave me SQL to find 3rd highest salary 
+    Project in depth
+    No questions from oops or subjects....
+    
+    MR: 
+    Situation where you have shown your leadership skills 
+    What inspired you to work on these projects
+    Individual or Teamwork 
+    
+    
+    HR:
+    Relocation 
+    Shifts
+    Why TCS
+    Why Bangalore and not Mumbai?
+    They kept my resume with them after the interview...
+
+12. TCS Prime Interview Experience:
+    TR & MR & HR were in the same panel.
+    
+    TR Questions:
+    
+    1. Self Introduction .
+    2. Gave a paper and asked to write down the steps involved in my project and Explain it.
+    3. Why you used Tensorflow particularly?
+    4. What you did in your intership ?
+    5. Why you choosed this as final project?
+    
+    MR Questions:
+    
+    1. How will you rectify the mistakes in your workplace
+    2. What is your aspiration.
+    3. Have you involved is any social activities?
+    
+    HR:
+    Asked about relocation, shift times, and checked My documents.
+    
+    (In my panel they only asked about projects and they were very friendly for other panel they asked hard qns from ML like outliers and write code for transaction in SQL.)
+    
+13. Tcs interview experience -
+    Python - 
+    what is docstring
+    What is difference b/w break, continue and pass
+    What is the use of numpy
+    What is pip
+    Diff b/w modules and packages
+    List all the inheritance in python 
+    What is hybrid inheritance 
+    2 codes -
+    Prime number
+    Reverse a number
+    SQL -
+    use of group by and order by
+    What is indexing 
+    Types of indexing 
+    Which type is preferred 
+    Diff between delete and truncate 
+    Which one is permanent.
+    What is cross sectional join 
+    How many rows will be created with 8 row and 10 row tables when cross sectional join is applied 
+    More basic SQL questions 
+    2 queries-
+    2nd maximum salary
+    Self join
+    
+    As I am from ECE-
+    Lots of questions were asked from my core subjects.
+    
+    My project is based on deep learning and AI models
+    So NLP, types of NLP, NLP algorithms and many questions related to project 
+    
+    MR-
+    Gave certain situations and expected answers.
+    Being a good graded ece student why you want it job .
+    Some questions related to hobbies and sports.
+    
+14. TCS Prime Interview Experience, Jaipur, Rajasthan 
+    * TR+MR: 30-40 mins (DBMS, DSA, OOPs, Big Data, Software Engineering)
+    * HR: 10-15 mins
+    Key Takeaways:
+    * Interviewers may ask about topics not on your resume.
+    * Be prepared for technical and HR questions.
+    * TCS is interested in your willingness to learn and adapt.
+    Questions Asked:
+    * Tell me about yourself.
+    * What is a microservice?
+    * C code output (example provided).
+    * ReactJS vs. ExpressJS.
+    * Languages for ReactJS and ExpressJS.
+    * Backend/frontend languages besides JavaScript.
+    * Testing and its types.
+    * Functional vs. non-functional analysis.
+    * SDLC.
+    * Agile methodologies.
+    * Why TCS?
+    * What do you know about TCS?
+    * Family background.
+    * Location preference.
+    * Night shift okay?
+    * Willingness to work on outdated technology.
+    HR Questions:
+    * Tell me about yourself.
+    * Why TCS?
+    * Dream company.
+    * 5 news headlines of today.
+    * Would you join with a digital offer?
+    * Family business and why not pursue it.
+    
+15. I had my interview at vit chennai for prime
+    1 first started with tell me about urself
+    2 I had described about aws, snowflake in my resume so stated asking about snowflake (architecture, staging, snowpipe)
+    3 Asked about ETL in snowflake
+    4 Data visualisation 
+    5 I describe about doing social services. Convo started on it
+    
+    Next another person started asking about
+    1 My projects ( its an text summarisation tool)
+    2 He asked deeply about ai and llm. I dont know about ai and llm. So he treat me like i made a serious crime by not learning ai and ml
+    3 What if we put u ina role which u dont like
+    Hr
+    1 willing to relocate
+    2 Assume u work at tcs. If u receive a freelancing job. What will you do
+    3 What if u have to work overtime. U have ur project deadline within 2 days, Its already weekend and u have to solve some bug. What will you do.
+    4 Ur friend asks about confidential info what will you do
+    
+    I had all 3(hr,tr,mr) in the panel. Not a single coding related or sql related question were asked.  Interview last for 30-35 min.
+    
+    They took my resume and returned my application form.
